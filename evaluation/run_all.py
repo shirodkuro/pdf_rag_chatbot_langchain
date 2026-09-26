@@ -45,6 +45,6 @@ def full_evaluation(pdf_path, api_key, test_set_path):
 if __name__ == "__main__":
     full_evaluation(
         pdf_path="C:/Users/FPT/Downloads/pdf_rag_chatbot_langchain/bao-cao-btl-daktmt 1.pdf",
-        api_key="AIzaSyBrI985Vp5uYyI9LrDZgClx8DY13wDrQ3s",
+        api_key=<api_key>,
         test_set_path="evaluation/test_set.json"
     )
