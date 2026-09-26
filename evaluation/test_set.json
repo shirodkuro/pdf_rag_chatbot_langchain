@@ -1,0 +1,22 @@
+[
+  {
+    "question": "LLM là gì?",
+    "ground_truth": "LLM là các mô hình AI được huấn luyện trên lượng lớn dữ liệu văn bản để hiểu và sinh ngôn ngữ tự nhiên"
+  },
+  {
+    "question": "RAG có ưu điểm gì?",
+    "ground_truth": "RAG giúp tăng độ chính xác, sử dụng được dữ liệu riêng và giảm hiện tượng hallucination"
+  },
+  {
+    "question": "LangChain là gì?",
+    "ground_truth": "LangChain là framework hỗ trợ xây dựng ứng dụng sử dụng LLM một cách dễ dàng"
+  },
+  {
+    "question": "FAISS dùng để làm gì?",
+    "ground_truth": "FAISS dùng để lưu trữ và tìm kiếm vector với hiệu suất cao"
+  },
+  {
+    "question": "Hallucination trong LLM là gì?",
+    "ground_truth": "Hallucination là hiện tượng LLM tạo ra thông tin sai không có trong dữ liệu thực tế"
+  }
+]
